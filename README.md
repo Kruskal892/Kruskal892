@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=200&lines=Nguyen+Duc+Anh+Minh;Frontend+Developer&background=0F172A" alt="Header Banner" />
 </div>
 
-### 👋 About Me
+### 👋 Hey there!
 I am a Frontend Developer with nearly 4 years of experience delivering production-ready applications. I specialize in **Next.js**, **TypeScript**, and **Headless CMS architectures**, focusing strongly on web performance and scalable mono-repos.
 
 - 🚀 Currently leading frontend architecture for a real-time visual editing CMS platform.
@@ -11,7 +11,7 @@ I am a Frontend Developer with nearly 4 years of experience delivering productio
 
 ---
 
-### 💻 Arsenal
+### 💻 Tech Stack
 
 **Core Frameworks & Languages:** <br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
