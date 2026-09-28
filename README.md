@@ -1,26 +1,26 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=200&lines=Nguyen+Duc+Anh+Minh;Frontend+Developer;Expanding+into+Full+Stack"
-    alt="Nguyen Duc Anh Minh - Frontend Developer"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=180&lines=Nguyen+Duc+Anh+Minh;Frontend+Developer;Building+Full-Stack+Applications"
+    alt="Nguyen Duc Anh Minh"
   />
 </div>
 
-## 👋 About Me
+## About Me
 
 I'm a **Frontend Developer with nearly 4 years of professional experience** building production-ready web applications.
 
-My core expertise is **React, Next.js, TypeScript, Headless CMS architectures, and scalable frontend systems**. I'm currently expanding deeper into backend development by building full-stack applications with **Node.js, Express, MongoDB, authentication, and real-time communication**.
+My core expertise is **React, Next.js, TypeScript, Headless CMS architecture, and scalable frontend systems**. I'm also expanding deeper into backend development by building full-stack applications with **Node.js, Express, MongoDB, authentication, and real-time communication**.
 
-- 🚀 Leading frontend architecture for a real-time visual editing CMS platform
-- 🏗️ Experienced with scalable monorepos, reusable component systems, and Headless CMS architectures
-- ⚡ Focused on web performance, maintainability, and developer experience
-- 🔧 Building full-stack applications with Node.js, Express, MongoDB, JWT, and Socket.io
-- 🤖 Interested in Generative AI, LLM integrations, and AI-powered developer experiences
-- 📫 Reach me at **[minhnguyenfe892@gmail.com](mailto:minhnguyenfe892@gmail.com)**
+- Leading frontend architecture for a real-time visual editing CMS platform
+- Experienced with scalable monorepos, reusable component systems, and Headless CMS architectures
+- Focused on web performance, maintainability, and developer experience
+- Building full-stack applications with Node.js, Express, MongoDB, JWT, and Socket.io
+- Interested in Generative AI, LLM integrations, and AI-powered developer experiences
+- Reach me at **[minhnguyenfe892@gmail.com](mailto:minhnguyenfe892@gmail.com)**
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -38,7 +38,7 @@ My core expertise is **React, Next.js, TypeScript, Headless CMS architectures, a
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-### State, Forms & Data Fetching
+### State, Forms & Data
 
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
@@ -69,84 +69,36 @@ My core expertise is **React, Next.js, TypeScript, Headless CMS architectures, a
 
 ---
 
-## 🚀 Featured Project
+## Selected Work
 
-### 🏠 [HomiePlace](https://github.com/Kruskal892/HomiePlace)
+### [HomiePlace](https://github.com/Kruskal892/HomiePlace)
 
-> **Find a place with your homies** — A full-stack shared-housing platform for finding rooms, connecting with roommates, and communicating in real time.
+Full-stack platform for shared housing and roommate collaboration, featuring **room discovery, authentication, media uploads, and real-time messaging**.
 
-**Frontend**
-
-`React 19` · `TypeScript` · `Vite` · `Tailwind CSS v4` · `React Router`
-
-**Backend**
-
-`Node.js` · `Express 5` · `MongoDB` · `Mongoose` · `Socket.io`
-
-**Infrastructure & Integrations**
-
-`JWT` · `bcrypt` · `Cloudinary` · `Multer`
-
-#### What I'm building with HomiePlace
-
-- 🏠 Shared housing and room discovery
-- 👥 Roommate collaboration
-- 💬 Real-time messaging with Socket.io
-- 🔐 JWT-based authentication and password hashing
-- 🗄️ REST APIs backed by MongoDB and Mongoose
-- 🖼️ Image uploads with Multer and Cloudinary
-- 🧱 Structured frontend and backend architecture
-- 🔄 Full client-server integration
+**React · TypeScript · Node.js · Express · MongoDB · Socket.io · JWT · Cloudinary**
 
 [View Repository →](https://github.com/Kruskal892/HomiePlace)
 
 ---
 
-## 🌱 Full-Stack Journey
+## Current Focus
 
-My frontend background gives me a strong foundation in building performant and maintainable user experiences.
-
-I'm currently expanding that knowledge deeper into the systems behind those experiences:
-
-```text
-React / Next.js / TypeScript
-          ↓
-      Node.js APIs
-          ↓
-   Express Architecture
-          ↓
- MongoDB & Data Modeling
-          ↓
-Authentication & Security
-          ↓
-Real-Time Communication
-          ↓
-Testing & Infrastructure
-          ↓
-Deployment & System Design
-```
-
-### Currently focusing on
-
-- API design and backend architecture
-- Authentication and authorization
-- Database modeling and optimization
-- Application security
-- Caching strategies
-- Background jobs and queues
-- Docker and containerization
-- CI/CD and deployment
-- System design
-- AI integrations in full-stack applications
+Building deeper full-stack expertise in **backend architecture, database design, authentication and authorization, Docker, deployment, system design, and AI integrations**.
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Kruskal892&theme=react&hide_border=true&border_radius=10"
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Kruskal892&theme=react&hide_border=true"
     alt="GitHub Streak"
+    height="165"
   />
 </div>
 
@@ -154,11 +106,11 @@ Deployment & System Design
 
 <div align="center">
 
-### 🤝 Let's Connect
-
-I'm interested in opportunities and projects involving
+## Connect
 
 **Frontend Architecture · Full-Stack Development · Developer Experience · AI-Powered Applications**
+
+<br />
 
 [![Email](https://img.shields.io/badge/Email-minhnguyenfe892%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhnguyenfe892@gmail.com)
 
