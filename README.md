@@ -54,7 +54,7 @@ My core expertise is **React, Next.js, TypeScript, Headless CMS architecture, an
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
+![Nodemailer](https://img.shields.io/badge/Nodemailer-007ACC?style=for-the-badge&logo=gmail&logoColor=white)
 ### Architecture, CMS & Tooling
 
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
