@@ -7,13 +7,13 @@
 
 ## About Me
 
-I'm a **Frontend Developer with nearly 4 years of professional experience** building production-ready web applications.
+I'm a **Frontend Developer with 4 years of professional experience** building production-ready web applications.
 
 My core expertise is **React, Next.js, TypeScript, Headless CMS architecture, and scalable frontend systems**. I'm also expanding deeper into backend development by building full-stack applications with **Node.js, Express, MongoDB, authentication, and real-time communication**.
 
 - Leading frontend architecture for a real-time visual editing CMS platform
 - Experienced with scalable monorepos, reusable component systems, and Headless CMS architectures
-- Focused on web performance, maintainability, and developer experience
+- Focused on web performance, accessibility, automated testing, and maintainable frontend architecture
 - Building full-stack applications with Node.js, Express, MongoDB, JWT, and Socket.io
 - Interested in Generative AI, LLM integrations, and AI-powered developer experiences
 - Reach me at **[minhnguyenfe892@gmail.com](mailto:minhnguyenfe892@gmail.com)**
@@ -28,10 +28,10 @@ My core expertise is **React, Next.js, TypeScript, Headless CMS architecture, an
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### UI & Component Architecture
 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
@@ -83,8 +83,8 @@ Full-stack platform for shared housing and roommate collaboration, featuring **r
 
 ## Current Focus
 
-Building deeper full-stack expertise in **backend architecture, database design, authentication and authorization, Docker, deployment, system design, and AI integrations**.
-
+Expanding my full-stack skills in backend architecture, database design, and system design.
+Currently learning DevOps: Docker, Linux fundamentals, GitHub Actions CI/CD, and application deployment.
 ---
 
 ## GitHub Activity
