@@ -69,7 +69,7 @@ My core expertise is **React, Next.js, TypeScript, Headless CMS architecture, an
 
 ---
 
-## Work in progress
+## Featured Project
 
 ### [HomiePlace](https://github.com/Kruskal892/HomiePlace)
 
