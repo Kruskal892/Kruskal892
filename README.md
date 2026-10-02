@@ -100,7 +100,7 @@ Exploring **Generative AI, LLM integrations, and AI-powered applications**.
     height="165"
   />
   <img
-    src="https://streak-stats.demolab.com?user=Kruskal892&theme=react&hide_border=true"
+    src="./profile/streak.svg"
     alt="GitHub Streak"
     height="165"
   />
