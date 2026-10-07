@@ -20,6 +20,37 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
+      - name: Check recent contribution counts
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_OWNER: ${{ github.repository_owner }}
+        run: |
+          gh api graphql \
+            -f login="$PROFILE_OWNER" \
+            -f query='
+              query($login: String!) {
+                user(login: $login) {
+                  contributionsCollection {
+                    contributionCalendar {
+                      weeks {
+                        contributionDays {
+                          date
+                          contributionCount
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ' \
+            --jq '
+              [.data.user.contributionsCollection.contributionCalendar
+               .weeks[].contributionDays[]]
+              | sort_by(.date)
+              | .[-14:][]
+              | "\(.date): \(.contributionCount)"
+            '
+
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
