@@ -126,7 +126,7 @@ An **accommodation platform in development**, with a focus on TypeScript backend
 
 Deepening my full-stack expertise in **backend architecture, database design, authentication and authorization, and system design**.
 
-Learning **DevOps fundamentals**, with a focus on **Docker, Linux, GitHub Actions CI/CD, and application deployment**.
+Learning **DevOps fundamentals**, with a focus on **Docker, Linux, GitHub Actions CI/CD, DevOps and application deployment**.
 
 Exploring **Generative AI, LLM integrations, and AI-powered applications**.
 
