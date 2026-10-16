@@ -41,7 +41,7 @@ My core expertise is **React, Next.js, TypeScript, and frontend architecture**, 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Embla Carousel](https://img.shields.io/badge/Embla_Carousel-18181B?style=for-the-badge)
 
-### State, Forms & Data
+### State, Forms & Data Validation
 
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
